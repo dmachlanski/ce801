@@ -5,3 +5,6 @@ A PID controller implemented via fuzzy logic and deployed onto a robot that is m
 ## Code
 - fuzzy_logic1 - all the fuzzy logic core code
 - pid_controller - robot deployment
+
+## Report
+See report.pdf.
